@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating software
 - 🌱 I’m currently learning IBM Full Stack developer Certificate
 - 💞️ I’m love to work either on small or big projects to get more experience
-- 📫 How to reach me: (714) 369-0440
+- 📫 How to reach me: (714) 369-0440/p.nguyen0995@gmail.com
 - 😄 Pronouns: Fong 
 
 <!---
